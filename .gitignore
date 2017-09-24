@@ -1,0 +1,30 @@
+# Emacs junk files
+
+**/\#*\#
+**/*\~
+\#*\#
+*\~
+
+# Build outputs
+**/*.out
+**/*.bin
+**/*.dat
+**/*.o
+**/*.exe
+**/*.obj
+**/*.dll
+**/*.dylib
+**/*.lib
+*.out
+*.bin
+*.dat
+*.o
+*.exe
+*.obj
+*.dll
+*.dylib
+*.lib
+
+build/**/*
+build/*
+!build/.gitignore
